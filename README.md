@@ -8,12 +8,12 @@
 SAiDL-Summer-Assignment-2026/
 ├── README.md
 ├── LICENSE
-└── BITS/
-    └── SAiDL_2026/
-        ├── core-ml.ipynb
-        ├── sparsity-optimization.ipynb
-        ├── SAiDL_CoreML(2).pdf
-        └── SAiDL_Sparsity_Optimization(1).pdf
+├── core-ml.ipynb
+├── sparsity-optimization.ipynb
+├── SAiDL_CoreML(2).pdf
+└── SAiDL_Sparsity_Optimization(1).pdf
+        
+
 ```
 
 
