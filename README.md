@@ -20,7 +20,7 @@ SAiDL-Summer-Assignment-2026/
 
 
 **How to run:**  
-Open `BITS/SAiDL_2026/` on Kaggle or Google Colab. All dependencies are installed within the notebook.
+Open `SAiDL-Summer-Assignment-2026/` on Kaggle or Google Colab. All dependencies are installed within the notebook.
 
 ---
 
@@ -42,7 +42,7 @@ scipy
 
 ## Reports
 
-Detailed analysis, derivations and results are in the PDF reports inside `BITS/SAiDL_2026/`, written in LaTeX.
+Detailed analysis, derivations and results are in the PDF reports.
 
 ---
 
